@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "88PkwYxy8y9j4X06sQwJgU",
+    "name" : "8728",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Permission error when trying to save Mapping that has been checked out from Git.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

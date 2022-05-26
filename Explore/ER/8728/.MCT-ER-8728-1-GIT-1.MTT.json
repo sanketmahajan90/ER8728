@@ -24,26 +24,6 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "6Kj6bicyKhHbaCNdW6gaeY",
-    "name" : "WIN-AGENT",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000025000000000007"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "1CERN7lgYA5dYzY8N8oGAY",
     "name" : "01-AmazonS3-infa.qa.bucket",
     "type" : "Connection",
@@ -65,7 +45,7 @@
     "path" : "/SYS"
   }, {
     "id" : "joqHZ9BVHCMiLCnSUjJTMp",
-    "name" : "ER-8728-1-GIT-1",
+    "name" : "ER-8728-1-GIT-12",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -100,6 +80,26 @@
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "8ff7SWOi1NHbTQqvpp5cUF",
+    "name" : "WIN-AGENT",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100002500000000000A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
